@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+h1 {
+	font-family: sans-serif;
+	font-weight: bold;
+	color: red;
+	font-size: 40px;
+	text-align: center;
+}
+
+h2 {
+	background-color: #66FF99;
+}
+
+.div_background {
+	margin: 30px;
+	
+}
+
+.div_boxModel {
+	margin: 30px;
+}
+
+.div_positioning {
+	margin: 30px;
+}
+
+.p_background {
+	font-weight: bold;
+	color:red;
+}
+/* a {
+	display:block;
+	background: #CCC;
+ 	padding:10px;
+} */
